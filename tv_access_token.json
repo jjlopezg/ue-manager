@@ -1,0 +1,5 @@
+{
+    "_comment": "set the access token of the TeamViewer master account...",
+	"access_token": "xxxx",
+    "token_type": "bearer"
+}

@@ -1,0 +1,5 @@
+{
+    "_comment": "Set a default device password, and set the 'device_groupid' field to the TeamViewer group ID of the 'Unassigned' group (create if necessary).",
+	"device_password": "xxxx",
+	"device_groupid": "123456789"
+}

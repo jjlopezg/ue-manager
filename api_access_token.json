@@ -1,0 +1,5 @@
+{
+    "_comment": "set the 'access_token' of the UE manager",
+	"access_token": "xxxx",
+    "token_type": "bearer"
+}
